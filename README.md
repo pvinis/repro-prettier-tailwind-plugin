@@ -1,4 +1,4 @@
-# repro
+# repro for https://github.com/tailwindlabs/prettier-plugin-tailwindcss/issues/309
 
 
 - `pnpm install`
